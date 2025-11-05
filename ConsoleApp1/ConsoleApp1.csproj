@@ -46,15 +46,7 @@
     <Compile Include="..\..\..\..\OneDrive\Documents\c 1\Program.cs">
       <Link>Program.cs</Link>
     </Compile>
-    <Compile Include="EightTask.cs" />
-    <Compile Include="FirstTask1.cs" />
-    <Compile Include="FiveTask.cs" />
-    <Compile Include="FourTask.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SecondTask.cs" />
-    <Compile Include="SevenTask.cs" />
-    <Compile Include="SixTask.cs" />
-    <Compile Include="ThirdTask.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
