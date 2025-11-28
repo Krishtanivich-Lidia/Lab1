@@ -46,6 +46,9 @@
     <Compile Include="..\..\..\..\OneDrive\Documents\c 1\Program.cs">
       <Link>Program.cs</Link>
     </Compile>
+    <Compile Include="ClassAnimal.cs" />
+    <Compile Include="ClassFigure.cs" />
+    <Compile Include="ClassFruits.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
